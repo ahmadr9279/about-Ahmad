@@ -2,7 +2,7 @@
 ### Email:
 ahmadr9279@hstat.org
 ### School:
-[HS of Telecommunications](hstat.org)
+[HS of Telecommunications](http://www.hstat.org)
 ### Schedule:
 1. *Algebra 2*
 2. SEP
